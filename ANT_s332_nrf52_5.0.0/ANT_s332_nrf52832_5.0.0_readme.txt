@@ -1,0 +1,10 @@
+ANT_S332_NRF52_5.0.0
+
+This release consists of the following:
+- This readme file
+- A Notes file
+- The ANT_S332_NRF52_5.0.0 softdevice (binary hex file)
+- The ANT_S332_NRF52_5.0.0 API (softdevice header files)
+- The ANT_S332_NRF52_5.0.0 release notes
+- The ANT_S332_NRF52_5.0.0 license
+- The ANT_S332_NRF52_5.0.0 migration document
